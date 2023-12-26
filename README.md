@@ -1,4 +1,4 @@
-## CODSOFT Internship Project Overview
+# CODSOFT Internship Project Overview
 This project contains several C++ programs, each with a different purpose. Here's a brief description of each:
 ---
 ```calculator.cpp```
